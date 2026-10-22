@@ -8,7 +8,6 @@ Sistema de punto de venta para farmacia (Windows Forms, C#, SQLite).
 - Reportes de ventas diarias y mensuales
 
 ## Requisitos
-- Windows
 - - .NET 10 SDK (descarga: https://dotnet.microsoft.com/download/dotnet/10.0)
 
 ## Ejecutar
