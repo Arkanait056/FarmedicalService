@@ -33,3 +33,12 @@ La interfaz usa una capa de UI propia en `FarmedicalService/UI/`:
   Reemplaza los valores de ejemplo y valida el rango autorizado por la DGII antes de emitir comprobantes reales.
 - Las contraseñas se guardan con PBKDF2 (las antiguas en texto plano se convierten al iniciar sesión).
 - Las bases de datos existentes se actualizan solas (columnas nuevas para anulaciones, método de pago, NCF y cuadre de caja).
+
+## Acceso de prueba
+
+Al iniciar por primera vez se crea un usuario administrador por defecto:
+
+- **Usuario:** `admin`
+- **Contraseña:** `admin123`
+
+> Es solo para pruebas y demostración. Cambia la contraseña desde el módulo de Usuarios antes de usar el sistema con datos reales.
